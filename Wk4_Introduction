@@ -1,0 +1,4 @@
+Introduction/Business Problem : As the week 4 module of the IBM Data Science Capstone project, this project will be using the Foursquare data to solve one of the issues that I could think of. 
+Here, in my use case, I will be targetting the hospitals/clinics to determine how many treatment centers are there in a particular city/town along with its ratio of the area.
+
+Ideally, a bigget multicultural city should have more such facilities and reasons are pretty obvious. But is that the case? We shall find out.
